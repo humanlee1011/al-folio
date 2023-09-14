@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Sun Yat-sen University
+# subtitle: <a href='#'>Affiliations</a>. Sun Yat-sen University
 
 profile:
   align: right

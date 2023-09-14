@@ -1,6 +1,29 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ICSE'24":
+  url: https://conf.researchr.org/home/icse-2024
 
-"PhysRev":
-  url: https://journals.aps.org/
+"FSE'23":
+  url: https://2023.esec-fse.org
+
+"ISSRE'22":
+  url: https://issre2022.github.io
+
+"ICWS'22":
+  url: https://conferences.computer.org/icws/2022
+
+"ISSRE'20":
+  url: https://2020.issre.net
+
+"TNNLS":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
+
+"TDSC":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858
+
+"TSC":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5326
+
+"JPDC":
+  url: https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing
+
+"WWW'21":
+  url: https://www2021.thewebconf.org
