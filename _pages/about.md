@@ -17,8 +17,4 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi, I am 5th year Ph.D candidate in Sun Yat-sen University, advised by Pengfei Chen. I am currently a visiting student in University of NewCastle, advised by Hongyu Zhang. I obtained my Bachelor's degree in Sun Yat-sen University, where I worked with Zibin Zheng. 
-
-My research interest focus on Cloud System Reliability, mainly focus on AIOps, ensuring the high availability and reliability of cloud systems, in particular: 
-- Studying the failure mechanisms, understanding the whole life cycle of failures
-- data-driven Fault Diagnosis, exploring anomaly detection and fault localization methods using log, metrics, and traces data in cloud systems 
+I'm 5-th year Ph.D candidate at Sun Yat-sen University, China. I am fortunate to be advised by Prof. Pengfei Chen. Currently, I am a visiting student at The University of Newcastle (advised by Prof. Hongyu Zhang). My research is in the area of intelligent software and cloud system reliability, aiming at developing intelligent and automated softwares and solutions to ensure high reliabilty of cloud systems. 
