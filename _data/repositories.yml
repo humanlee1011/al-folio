@@ -5,3 +5,4 @@ github_users:
 github_repos:
   - IntelligentDDS/SwissLog
   - IntelligentDDS/Post-mortems-Analysis
+  - IntelligentDDS/LogShrink
