@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-10-22 15:59:00-0400
+date: 2023-09-14 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+I'm on the job market, hunting for post-doc/data scientist positions.
